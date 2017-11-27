@@ -1,0 +1,4 @@
+markdown>=2.6.9
+pybars>=0.0.4
+pygments-lexer-solidity>=0.0.3
+Pygments>=2.2.0
